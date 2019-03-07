@@ -1,1 +1,1 @@
-# Side-Scroller-Tutorial-
+# Side-Scroller-Tutorial
